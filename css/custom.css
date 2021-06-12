@@ -1,20 +1,13 @@
-body{
-  background-color: #dde8e8;
-}
-
-hr{
-  width: 4%;
+/* hr{
+  width: 8%;
   border-style: none;
   border-top-style: dotted;
   border-color: grey;
   border-width: 5px;
-}
+} */
 img{
   width: 200px;
 }
 img{
-  border-radius: 200px;
-}
-h1,h2,h3{
-  color: #4b8c8c;
+  border-radius: 100%;
 }
